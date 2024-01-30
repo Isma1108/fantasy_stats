@@ -1,0 +1,1275 @@
+[
+    {
+        "discr": "marketPlayerLeague",
+        "playerMaster": {
+            "images": {
+                "big": {
+                    "2048x2225": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "1024x1113": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "512x556": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "256x278": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "128x139": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "64x70": "https://assets-fantasy.llt-services.com/players/no-player.png"
+                },
+                "beat": {
+                    "2048x2048": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "1024x1024": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "512x512": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "256x256": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "128x128": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "64x64": "https://assets-fantasy.llt-services.com/players/no-player-sq.png"
+                },
+                "transparent": {
+                    "2048x2048": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "1024x1024": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "512x512": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "256x256": "https://assets-fantasy.llt-services.com/players/t178/man1361/256x256/man1361_t178_1_001_000.png",
+                    "128x128": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "64x64": "https://assets-fantasy.llt-services.com/players/no-player-sq.png"
+                }
+            },
+            "id": "1361",
+            "team": {
+                "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t178/color/t178_fc-barcelona.png",
+                "badgeGray": "https://assets-fantasy.llt-services.com/teambadge/t178/gray/t178_fc-barcelona.png",
+                "badgeWhite": "https://assets-fantasy.llt-services.com/teambadge/t178/white/t178_fc-barcelona.png",
+                "name": "FC Barcelona",
+                "id": "4",
+                "shortName": "BAR",
+                "slug": "fc-barcelona"
+            },
+            "name": "Xavi Hern\u00e1ndez",
+            "lastSeasonPoints": 140,
+            "nickname": "Xavi",
+            "slug": "xavi",
+            "positionId": 5,
+            "position": "Entrenador",
+            "marketValue": 504283,
+            "playerStatus": "ok",
+            "points": 65,
+            "averagePoints": 3.25
+        },
+        "id": "628402549",
+        "salePrice": 507294,
+        "expirationDate": "2024-01-31T19:47:04+01:00",
+        "status": "on_sale",
+        "leagueType": "private",
+        "leagueId": 3007733,
+        "numberOfBids": 0
+    },
+    {
+        "discr": "marketPlayerLeague",
+        "playerMaster": {
+            "images": {
+                "big": {
+                    "2048x2225": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "1024x1113": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "512x556": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "256x278": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "128x139": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "64x70": "https://assets-fantasy.llt-services.com/players/no-player.png"
+                },
+                "beat": {
+                    "2048x2048": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "1024x1024": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "512x512": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "256x256": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "128x128": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "64x64": "https://assets-fantasy.llt-services.com/players/no-player-sq.png"
+                },
+                "transparent": {
+                    "2048x2048": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "1024x1024": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "512x512": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "256x256": "https://assets-fantasy.llt-services.com/players/t188/p1204/256x256/p1204_t188_1_001_000.png",
+                    "128x128": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "64x64": "https://assets-fantasy.llt-services.com/players/no-player-sq.png"
+                }
+            },
+            "id": "1204",
+            "team": {
+                "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t188/color/t188_real-sociedad.png",
+                "badgeGray": "https://assets-fantasy.llt-services.com/teambadge/t188/gray/t188_real-sociedad.png",
+                "badgeWhite": "https://assets-fantasy.llt-services.com/teambadge/t188/white/t188_real-sociedad.png",
+                "name": "Real Sociedad",
+                "id": "16",
+                "shortName": "RSO",
+                "slug": "real-sociedad"
+            },
+            "name": "Javier Gal\u00e1n Gil",
+            "lastSeasonPoints": 137,
+            "nickname": "Javi Gal\u00e1n",
+            "slug": "javi-galan",
+            "positionId": 2,
+            "position": "Defensa",
+            "marketValue": 950685,
+            "playerStatus": "ok",
+            "points": 14,
+            "averagePoints": 0.6666666666666666
+        },
+        "id": "628402555",
+        "salePrice": 874358,
+        "expirationDate": "2024-01-31T19:47:04+01:00",
+        "status": "on_sale",
+        "leagueType": "private",
+        "leagueId": 3007733,
+        "numberOfBids": 1
+    },
+    {
+        "discr": "marketPlayerLeague",
+        "playerMaster": {
+            "images": {
+                "big": {
+                    "2048x2225": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "1024x1113": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "512x556": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "256x278": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "128x139": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "64x70": "https://assets-fantasy.llt-services.com/players/no-player.png"
+                },
+                "beat": {
+                    "2048x2048": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "1024x1024": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "512x512": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "256x256": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "128x128": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "64x64": "https://assets-fantasy.llt-services.com/players/no-player-sq.png"
+                },
+                "transparent": {
+                    "2048x2048": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "1024x1024": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "512x512": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "256x256": "https://assets-fantasy.llt-services.com/players/t1564/p1828/256x256/p1828_t1564_1_001_000.png",
+                    "128x128": "https://assets-fantasy.llt-services.com/players/no-player/no-player-sq_128.png",
+                    "64x64": "https://assets-fantasy.llt-services.com/players/no-player/no-player-sq_64.png"
+                }
+            },
+            "id": "1828",
+            "team": {
+                "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t1564/color/t1564_ud-almeria.png",
+                "badgeGray": "https://assets-fantasy.llt-services.com/teambadge/t1564/gray/t1564_ud-almeria.png",
+                "badgeWhite": "https://assets-fantasy.llt-services.com/teambadge/t1564/white/t1564_ud-almeria.png",
+                "name": "UD\u00a0Almer\u00eda",
+                "id": "1",
+                "shortName": "ALM",
+                "slug": "ud-almeria"
+            },
+            "name": "Luka Romero",
+            "nickname": "Luka",
+            "slug": "luka",
+            "positionId": 3,
+            "position": "Centrocampista",
+            "marketValue": 4452302,
+            "playerStatus": "ok",
+            "points": 0,
+            "averagePoints": 0
+        },
+        "id": "628402561",
+        "salePrice": 4596411,
+        "expirationDate": "2024-01-31T19:47:04+01:00",
+        "status": "on_sale",
+        "leagueType": "private",
+        "leagueId": 3007733,
+        "numberOfBids": 0
+    },
+    {
+        "discr": "marketPlayerLeague",
+        "playerMaster": {
+            "images": {
+                "big": {
+                    "2048x2225": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "1024x1113": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "512x556": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "256x278": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "128x139": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "64x70": "https://assets-fantasy.llt-services.com/players/no-player.png"
+                },
+                "beat": {
+                    "2048x2048": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "1024x1024": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "512x512": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "256x256": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "128x128": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "64x64": "https://assets-fantasy.llt-services.com/players/no-player-sq.png"
+                },
+                "transparent": {
+                    "2048x2048": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "1024x1024": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "512x512": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "256x256": "https://assets-fantasy.llt-services.com/players/t1564/p228/256x256/p228_t1564_1_001_000.png",
+                    "128x128": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "64x64": "https://assets-fantasy.llt-services.com/players/no-player-sq.png"
+                }
+            },
+            "id": "228",
+            "team": {
+                "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t1564/color/t1564_ud-almeria.png",
+                "badgeGray": "https://assets-fantasy.llt-services.com/teambadge/t1564/gray/t1564_ud-almeria.png",
+                "badgeWhite": "https://assets-fantasy.llt-services.com/teambadge/t1564/white/t1564_ud-almeria.png",
+                "name": "UD\u00a0Almer\u00eda",
+                "id": "1",
+                "shortName": "ALM",
+                "slug": "ud-almeria"
+            },
+            "name": "Gonzalo Melero Manzanares",
+            "lastSeasonPoints": 129,
+            "nickname": "Melero",
+            "slug": "gonzalo-melero",
+            "positionId": 3,
+            "position": "Centrocampista",
+            "marketValue": 502254,
+            "playerStatus": "ok",
+            "points": 34,
+            "averagePoints": 1.7894736842105263
+        },
+        "id": "628402568",
+        "salePrice": 505181,
+        "expirationDate": "2024-01-31T19:47:04+01:00",
+        "status": "on_sale",
+        "leagueType": "private",
+        "leagueId": 3007733,
+        "numberOfBids": 0
+    },
+    {
+        "discr": "marketPlayerLeague",
+        "playerMaster": {
+            "images": {
+                "big": {
+                    "2048x2225": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "1024x1113": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "512x556": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "256x278": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "128x139": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "64x70": "https://assets-fantasy.llt-services.com/players/no-player.png"
+                },
+                "beat": {
+                    "2048x2048": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "1024x1024": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "512x512": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "256x256": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "128x128": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "64x64": "https://assets-fantasy.llt-services.com/players/no-player-sq.png"
+                },
+                "transparent": {
+                    "2048x2048": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "1024x1024": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "512x512": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "256x256": "https://assets-fantasy.llt-services.com/players/t407/p1620/256x256/p1620_t407_1_001_000.png",
+                    "128x128": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "64x64": "https://assets-fantasy.llt-services.com/players/no-player-sq.png"
+                }
+            },
+            "id": "1620",
+            "team": {
+                "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t407/color/t407_ud-las-palmas.png",
+                "badgeGray": "https://assets-fantasy.llt-services.com/teambadge/t407/gray/t407_ud-las-palmas.png",
+                "badgeWhite": "https://assets-fantasy.llt-services.com/teambadge/t407/white/t407_ud-las-palmas.png",
+                "name": "UD Las Palmas",
+                "id": "31",
+                "shortName": "LPA",
+                "slug": "ud-las-palmas"
+            },
+            "name": "Enzo Loiodice",
+            "nickname": "Loiodice",
+            "slug": "loiodice",
+            "positionId": 3,
+            "position": "Centrocampista",
+            "marketValue": 1190743,
+            "playerStatus": "ok",
+            "points": 78,
+            "averagePoints": 3.5454545454545454
+        },
+        "id": "628402575",
+        "salePrice": 1208072,
+        "expirationDate": "2024-01-31T19:47:04+01:00",
+        "status": "on_sale",
+        "leagueType": "private",
+        "leagueId": 3007733,
+        "numberOfBids": 0
+    },
+    {
+        "discr": "marketPlayerLeague",
+        "playerMaster": {
+            "images": {
+                "big": {
+                    "2048x2225": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "1024x1113": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "512x556": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "256x278": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "128x139": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "64x70": "https://assets-fantasy.llt-services.com/players/no-player.png"
+                },
+                "beat": {
+                    "2048x2048": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "1024x1024": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "512x512": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "256x256": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "128x128": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "64x64": "https://assets-fantasy.llt-services.com/players/no-player-sq.png"
+                },
+                "transparent": {
+                    "2048x2048": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "1024x1024": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "512x512": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "256x256": "https://assets-fantasy.llt-services.com/players/t188/p701/256x256/p701_t188_1_001_000.png",
+                    "128x128": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "64x64": "https://assets-fantasy.llt-services.com/players/no-player-sq.png"
+                }
+            },
+            "id": "701",
+            "team": {
+                "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t188/color/t188_real-sociedad.png",
+                "badgeGray": "https://assets-fantasy.llt-services.com/teambadge/t188/gray/t188_real-sociedad.png",
+                "badgeWhite": "https://assets-fantasy.llt-services.com/teambadge/t188/white/t188_real-sociedad.png",
+                "name": "Real Sociedad",
+                "id": "16",
+                "shortName": "RSO",
+                "slug": "real-sociedad"
+            },
+            "name": "Ander Barrenetxea Muguruza",
+            "lastSeasonPoints": 103,
+            "nickname": "Barrenetxea",
+            "slug": "barrenetxea",
+            "positionId": 3,
+            "position": "Centrocampista",
+            "marketValue": 9098236,
+            "playerStatus": "injured",
+            "points": 69,
+            "averagePoints": 4.0588235294117645
+        },
+        "id": "628402581",
+        "salePrice": 9362277,
+        "expirationDate": "2024-01-31T19:47:04+01:00",
+        "status": "on_sale",
+        "leagueType": "private",
+        "leagueId": 3007733,
+        "numberOfBids": 0
+    },
+    {
+        "discr": "marketPlayerLeague",
+        "playerMaster": {
+            "images": {
+                "big": {
+                    "2048x2225": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "1024x1113": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "512x556": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "256x278": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "128x139": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "64x70": "https://assets-fantasy.llt-services.com/players/no-player.png"
+                },
+                "beat": {
+                    "2048x2048": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "1024x1024": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "512x512": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "256x256": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "128x128": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "64x64": "https://assets-fantasy.llt-services.com/players/no-player-sq.png"
+                },
+                "transparent": {
+                    "2048x2048": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "1024x1024": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "512x512": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "256x256": "https://assets-fantasy.llt-services.com/players/t188/p1825/256x256/p1825_t188_1_001_000.png",
+                    "128x128": "https://assets-fantasy.llt-services.com/players/no-player/no-player-sq_128.png",
+                    "64x64": "https://assets-fantasy.llt-services.com/players/no-player/no-player-sq_64.png"
+                }
+            },
+            "id": "1825",
+            "team": {
+                "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t188/color/t188_real-sociedad.png",
+                "badgeGray": "https://assets-fantasy.llt-services.com/teambadge/t188/gray/t188_real-sociedad.png",
+                "badgeWhite": "https://assets-fantasy.llt-services.com/teambadge/t188/white/t188_real-sociedad.png",
+                "name": "Real Sociedad",
+                "id": "16",
+                "shortName": "RSO",
+                "slug": "real-sociedad"
+            },
+            "name": "Sheraldo Becker",
+            "nickname": "Becker",
+            "slug": "sheraldo-becker",
+            "positionId": 3,
+            "position": "Centrocampista",
+            "marketValue": 7463937,
+            "playerStatus": "ok",
+            "points": 2,
+            "averagePoints": 2
+        },
+        "id": "628402587",
+        "salePrice": 7605400,
+        "expirationDate": "2024-01-31T19:47:04+01:00",
+        "status": "on_sale",
+        "leagueType": "private",
+        "leagueId": 3007733,
+        "numberOfBids": 0
+    },
+    {
+        "discr": "marketPlayerLeague",
+        "playerMaster": {
+            "images": {
+                "big": {
+                    "2048x2225": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "1024x1113": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "512x556": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "256x278": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "128x139": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "64x70": "https://assets-fantasy.llt-services.com/players/no-player.png"
+                },
+                "beat": {
+                    "2048x2048": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "1024x1024": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "512x512": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "256x256": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "128x128": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "64x64": "https://assets-fantasy.llt-services.com/players/no-player-sq.png"
+                },
+                "transparent": {
+                    "2048x2048": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "1024x1024": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "512x512": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "256x256": "https://assets-fantasy.llt-services.com/players/t184/p980/256x256/p980_t184_1_001_000.png",
+                    "128x128": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "64x64": "https://assets-fantasy.llt-services.com/players/no-player-sq.png"
+                }
+            },
+            "id": "980",
+            "team": {
+                "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t184/color/t184_rayo-vallecano.png",
+                "badgeGray": "https://assets-fantasy.llt-services.com/teambadge/t184/gray/t184_rayo-vallecano.png",
+                "badgeWhite": "https://assets-fantasy.llt-services.com/teambadge/t184/white/t184_rayo-vallecano.png",
+                "name": "Rayo Vallecano",
+                "id": "14",
+                "shortName": "RAY",
+                "slug": "rayo-vallecano"
+            },
+            "name": "Sergio Camello",
+            "lastSeasonPoints": 153,
+            "nickname": "Camello",
+            "slug": "camello",
+            "positionId": 4,
+            "position": "Delantero",
+            "marketValue": 627799,
+            "playerStatus": "ok",
+            "points": 57,
+            "averagePoints": 2.85
+        },
+        "id": "628402593",
+        "salePrice": 635957,
+        "expirationDate": "2024-01-31T19:47:04+01:00",
+        "status": "on_sale",
+        "leagueType": "private",
+        "leagueId": 3007733,
+        "numberOfBids": 0
+    },
+    {
+        "discr": "marketPlayerLeague",
+        "playerMaster": {
+            "images": {
+                "big": {
+                    "2048x2225": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "1024x1113": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "512x556": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "256x278": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "128x139": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "64x70": "https://assets-fantasy.llt-services.com/players/no-player.png"
+                },
+                "beat": {
+                    "2048x2048": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "1024x1024": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "512x512": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "256x256": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "128x128": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "64x64": "https://assets-fantasy.llt-services.com/players/no-player-sq.png"
+                },
+                "transparent": {
+                    "2048x2048": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "1024x1024": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "512x512": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "256x256": "https://assets-fantasy.llt-services.com/players/t407/p1780/256x256/p1780_t407_1_001_000.png",
+                    "128x128": "https://assets-fantasy.llt-services.com/players/no-player/no-player-sq_128.png",
+                    "64x64": "https://assets-fantasy.llt-services.com/players/no-player/no-player-sq_64.png"
+                }
+            },
+            "id": "1780",
+            "team": {
+                "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t407/color/t407_ud-las-palmas.png",
+                "badgeGray": "https://assets-fantasy.llt-services.com/teambadge/t407/gray/t407_ud-las-palmas.png",
+                "badgeWhite": "https://assets-fantasy.llt-services.com/teambadge/t407/white/t407_ud-las-palmas.png",
+                "name": "UD Las Palmas",
+                "id": "31",
+                "shortName": "LPA",
+                "slug": "ud-las-palmas"
+            },
+            "name": "Sory Kaba",
+            "nickname": "Sory Kaba",
+            "slug": "sory",
+            "positionId": 4,
+            "position": "Delantero",
+            "marketValue": 501559,
+            "playerStatus": "ok",
+            "points": 24,
+            "averagePoints": 1.3333333333333333
+        },
+        "id": "628402599",
+        "salePrice": 504457,
+        "expirationDate": "2024-01-31T19:47:04+01:00",
+        "status": "on_sale",
+        "leagueType": "private",
+        "leagueId": 3007733,
+        "numberOfBids": 0
+    },
+    {
+        "discr": "marketPlayerLeague",
+        "playerMaster": {
+            "images": {
+                "big": {
+                    "2048x2225": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "1024x1113": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "512x556": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "256x278": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "128x139": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "64x70": "https://assets-fantasy.llt-services.com/players/no-player.png"
+                },
+                "beat": {
+                    "2048x2048": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "1024x1024": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "512x512": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "256x256": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "128x128": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "64x64": "https://assets-fantasy.llt-services.com/players/no-player-sq.png"
+                },
+                "transparent": {
+                    "2048x2048": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "1024x1024": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "512x512": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "256x256": "https://assets-fantasy.llt-services.com/players/t175/p67/256x256/p67_t175_1_001_000.png",
+                    "128x128": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "64x64": "https://assets-fantasy.llt-services.com/players/no-player-sq.png"
+                }
+            },
+            "id": "67",
+            "team": {
+                "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t175/color/t175_atletico-de-madrid.png",
+                "badgeGray": "https://assets-fantasy.llt-services.com/teambadge/t175/gray/t175_atletico-de-madrid.png",
+                "badgeWhite": "https://assets-fantasy.llt-services.com/teambadge/t175/white/t175_atletico-de-madrid.png",
+                "name": "Atl\u00e9tico de Madrid",
+                "id": "2",
+                "shortName": "ATM",
+                "slug": "atletico-de-madrid"
+            },
+            "name": "Marcos Llorente",
+            "lastSeasonPoints": 109,
+            "nickname": "Marcos Llorente",
+            "slug": "llorente-marcos",
+            "positionId": 3,
+            "position": "Centrocampista",
+            "marketValue": 17820330,
+            "playerStatus": "ok",
+            "points": 95,
+            "averagePoints": 4.523809523809524
+        },
+        "id": "628402605",
+        "salePrice": 18160560,
+        "expirationDate": "2024-01-31T19:47:04+01:00",
+        "status": "on_sale",
+        "leagueType": "private",
+        "leagueId": 3007733,
+        "numberOfBids": 0
+    },
+    {
+        "discr": "marketPlayerLeague",
+        "playerMaster": {
+            "images": {
+                "big": {
+                    "2048x2225": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "1024x1113": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "512x556": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "256x278": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "128x139": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "64x70": "https://assets-fantasy.llt-services.com/players/no-player.png"
+                },
+                "beat": {
+                    "2048x2048": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "1024x1024": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "512x512": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "256x256": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "128x128": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "64x64": "https://assets-fantasy.llt-services.com/players/no-player-sq.png"
+                },
+                "transparent": {
+                    "2048x2048": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "1024x1024": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "512x512": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "256x256": "https://assets-fantasy.llt-services.com/players/t188/p255/256x256/p255_t188_1_001_000.png",
+                    "128x128": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "64x64": "https://assets-fantasy.llt-services.com/players/no-player-sq.png"
+                }
+            },
+            "id": "255",
+            "team": {
+                "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t188/color/t188_real-sociedad.png",
+                "badgeGray": "https://assets-fantasy.llt-services.com/teambadge/t188/gray/t188_real-sociedad.png",
+                "badgeWhite": "https://assets-fantasy.llt-services.com/teambadge/t188/white/t188_real-sociedad.png",
+                "name": "Real Sociedad",
+                "id": "16",
+                "shortName": "RSO",
+                "slug": "real-sociedad"
+            },
+            "name": "Robin Le Normand",
+            "lastSeasonPoints": 163,
+            "nickname": "Le Normand",
+            "slug": "p224919-261118195201",
+            "positionId": 2,
+            "position": "Defensa",
+            "marketValue": 19145886,
+            "playerStatus": "ok",
+            "points": 91,
+            "averagePoints": 4.333333333333333
+        },
+        "id": "628402610",
+        "salePrice": 19298064,
+        "expirationDate": "2024-01-31T19:47:04+01:00",
+        "status": "on_sale",
+        "leagueType": "private",
+        "leagueId": 3007733,
+        "numberOfBids": 0
+    },
+    {
+        "discr": "marketPlayerLeague",
+        "playerMaster": {
+            "images": {
+                "big": {
+                    "2048x2225": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "1024x1113": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "512x556": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "256x278": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "128x139": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "64x70": "https://assets-fantasy.llt-services.com/players/no-player.png"
+                },
+                "beat": {
+                    "2048x2048": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "1024x1024": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "512x512": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "256x256": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "128x128": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "64x64": "https://assets-fantasy.llt-services.com/players/no-player-sq.png"
+                },
+                "transparent": {
+                    "2048x2048": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "1024x1024": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "512x512": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "256x256": "https://assets-fantasy.llt-services.com/players/t184/p886/256x256/p886_t184_1_001_000.png",
+                    "128x128": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "64x64": "https://assets-fantasy.llt-services.com/players/no-player-sq.png"
+                }
+            },
+            "id": "886",
+            "team": {
+                "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t184/color/t184_rayo-vallecano.png",
+                "badgeGray": "https://assets-fantasy.llt-services.com/teambadge/t184/gray/t184_rayo-vallecano.png",
+                "badgeWhite": "https://assets-fantasy.llt-services.com/teambadge/t184/white/t184_rayo-vallecano.png",
+                "name": "Rayo Vallecano",
+                "id": "14",
+                "shortName": "RAY",
+                "slug": "rayo-vallecano"
+            },
+            "name": "Jorge De Frutos",
+            "nickname": "De Frutos",
+            "slug": "de-frutos-1",
+            "positionId": 3,
+            "position": "Centrocampista",
+            "marketValue": 558865,
+            "playerStatus": "ok",
+            "points": 57,
+            "averagePoints": 2.85
+        },
+        "id": "628402615",
+        "salePrice": 564151,
+        "expirationDate": "2024-01-31T19:47:04+01:00",
+        "status": "on_sale",
+        "leagueType": "private",
+        "leagueId": 3007733,
+        "numberOfBids": 0
+    },
+    {
+        "discr": "marketPlayerLeague",
+        "playerMaster": {
+            "images": {
+                "big": {
+                    "2048x2225": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "1024x1113": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "512x556": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "256x278": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "128x139": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "64x70": "https://assets-fantasy.llt-services.com/players/no-player.png"
+                },
+                "beat": {
+                    "2048x2048": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "1024x1024": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "512x512": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "256x256": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "128x128": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "64x64": "https://assets-fantasy.llt-services.com/players/no-player-sq.png"
+                },
+                "transparent": {
+                    "2048x2048": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "1024x1024": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "512x512": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "256x256": "https://assets-fantasy.llt-services.com/players/t185/p1305/256x256/p1305_t185_1_001_000.png",
+                    "128x128": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "64x64": "https://assets-fantasy.llt-services.com/players/no-player-sq.png"
+                }
+            },
+            "id": "1305",
+            "team": {
+                "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t185/color/t185_real-betis.png",
+                "badgeGray": "https://assets-fantasy.llt-services.com/teambadge/t185/gray/t185_real-betis.png",
+                "badgeWhite": "https://assets-fantasy.llt-services.com/teambadge/t185/white/t185_real-betis.png",
+                "name": "Real Betis",
+                "id": "5",
+                "shortName": "BET",
+                "slug": "real-betis"
+            },
+            "name": "H\u00e9ctor Beller\u00edn Moruno",
+            "lastSeasonPoints": 12,
+            "nickname": "Beller\u00edn",
+            "slug": "bellerin",
+            "positionId": 2,
+            "position": "Defensa",
+            "marketValue": 1472584,
+            "playerStatus": "ok",
+            "points": 47,
+            "averagePoints": 2.764705882352941
+        },
+        "id": "628402620",
+        "salePrice": 1471351,
+        "expirationDate": "2024-01-31T19:47:04+01:00",
+        "status": "on_sale",
+        "leagueType": "private",
+        "leagueId": 3007733,
+        "numberOfBids": 0
+    },
+    {
+        "discr": "marketPlayerTeam",
+        "playerMaster": {
+            "images": {
+                "big": {
+                    "2048x2225": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "1024x1113": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "512x556": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "256x278": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "128x139": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "64x70": "https://assets-fantasy.llt-services.com/players/no-player.png"
+                },
+                "beat": {
+                    "2048x2048": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "1024x1024": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "512x512": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "256x256": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "128x128": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "64x64": "https://assets-fantasy.llt-services.com/players/no-player-sq.png"
+                },
+                "transparent": {
+                    "2048x2048": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "1024x1024": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "512x512": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "256x256": "https://assets-fantasy.llt-services.com/players/t450/p942/256x256/p942_t450_1_001_000.png",
+                    "128x128": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "64x64": "https://assets-fantasy.llt-services.com/players/no-player-sq.png"
+                }
+            },
+            "id": "942",
+            "team": {
+                "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t450/color/t450_c-a-osasuna.png",
+                "badgeGray": "https://assets-fantasy.llt-services.com/teambadge/t450/gray/t450_c-a-osasuna.png",
+                "badgeWhite": "https://assets-fantasy.llt-services.com/teambadge/t450/white/t450_c-a-osasuna.png",
+                "name": "C.A. Osasuna",
+                "id": "13",
+                "shortName": "OSA",
+                "slug": "c-a-osasuna"
+            },
+            "name": "Ante Budimir",
+            "lastSeasonPoints": 133,
+            "nickname": "Budimir",
+            "slug": "budimir",
+            "positionId": 4,
+            "position": "Delantero",
+            "marketValue": 25349058,
+            "playerStatus": "ok",
+            "points": 120,
+            "averagePoints": 5.714285714285714
+        },
+        "playerTeam": {
+            "buyoutClause": 36000000,
+            "playerTeamId": "101391804",
+            "buyoutClauseLockedEndTime": "2023-12-20T16:38:56+01:00"
+        },
+        "id": "73766361",
+        "salePrice": 25164402,
+        "expirationDate": "2024-02-02T10:13:05+01:00",
+        "status": "on_sale",
+        "leagueType": "private",
+        "leagueId": 3007733,
+        "numberOfOffers": 1,
+        "directOffer": false,
+        "sellerTeam": {
+            "teamMoney": null,
+            "id": "14343859",
+            "manager": {
+                "id": "5472599",
+                "managerName": "rogeneta",
+                "avatar": "https://ll1prglcdn.azureedge.net/global-avatar/3526df80-0814-4a11-a0f4-1ab8f4352c07.png"
+            },
+            "teamValue": 218270911,
+            "teamPoints": 859
+        }
+    },
+    {
+        "discr": "marketPlayerTeam",
+        "playerMaster": {
+            "images": {
+                "big": {
+                    "2048x2225": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "1024x1113": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "512x556": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "256x278": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "128x139": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "64x70": "https://assets-fantasy.llt-services.com/players/no-player.png"
+                },
+                "beat": {
+                    "2048x2048": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "1024x1024": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "512x512": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "256x256": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "128x128": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "64x64": "https://assets-fantasy.llt-services.com/players/no-player-sq.png"
+                },
+                "transparent": {
+                    "2048x2048": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "1024x1024": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "512x512": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "256x256": "https://assets-fantasy.llt-services.com/players/t2893/p1245/256x256/p1245_t2893_1_001_000.png",
+                    "128x128": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "64x64": "https://assets-fantasy.llt-services.com/players/no-player-sq.png"
+                }
+            },
+            "id": "1245",
+            "team": {
+                "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t2893/color/t2893_girona-fc.png",
+                "badgeGray": "https://assets-fantasy.llt-services.com/teambadge/t2893/gray/t2893_girona-fc.png",
+                "badgeWhite": "https://assets-fantasy.llt-services.com/teambadge/t2893/white/t2893_girona-fc.png",
+                "name": "Girona\u00a0FC",
+                "id": "28",
+                "shortName": "GIR",
+                "slug": "girona-fc"
+            },
+            "name": "Miguel Guti\u00e9rrez",
+            "lastSeasonPoints": 141,
+            "nickname": "Miguel Guti\u00e9rrez",
+            "slug": "gutierrez",
+            "positionId": 2,
+            "position": "Defensa",
+            "marketValue": 58885401,
+            "playerStatus": "ok",
+            "points": 135,
+            "averagePoints": 6.136363636363637
+        },
+        "playerTeam": {
+            "buyoutClause": 58885401,
+            "playerTeamId": "107529177",
+            "buyoutClauseLockedEndTime": "2024-01-02T19:47:11+01:00"
+        },
+        "id": "75244366",
+        "salePrice": 57810093,
+        "expirationDate": "2024-02-02T21:16:51+01:00",
+        "status": "on_sale",
+        "leagueType": "private",
+        "leagueId": 3007733,
+        "numberOfOffers": 0,
+        "directOffer": false,
+        "sellerTeam": {
+            "teamMoney": null,
+            "id": "14345751",
+            "manager": {
+                "id": "5472712",
+                "managerName": "Probel",
+                "avatar": "https://ll1prglcdn.azureedge.net/global-avatar/16df74c1-d18b-4f73-bf1c-9160d7c05f09.png"
+            },
+            "teamValue": 275648562,
+            "teamPoints": 829
+        }
+    },
+    {
+        "discr": "marketPlayerTeam",
+        "playerMaster": {
+            "images": {
+                "big": {
+                    "2048x2225": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "1024x1113": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "512x556": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "256x278": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "128x139": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "64x70": "https://assets-fantasy.llt-services.com/players/no-player.png"
+                },
+                "beat": {
+                    "2048x2048": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "1024x1024": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "512x512": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "256x256": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "128x128": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "64x64": "https://assets-fantasy.llt-services.com/players/no-player-sq.png"
+                },
+                "transparent": {
+                    "2048x2048": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "1024x1024": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "512x512": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "256x256": "https://assets-fantasy.llt-services.com/players/t173/p1782/256x256/p1782_t173_1_001_000.png",
+                    "128x128": "https://assets-fantasy.llt-services.com/players/no-player/no-player-sq_128.png",
+                    "64x64": "https://assets-fantasy.llt-services.com/players/no-player/no-player-sq_64.png"
+                }
+            },
+            "id": "1782",
+            "team": {
+                "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t173/color/t173_d-alaves.png",
+                "badgeGray": "https://assets-fantasy.llt-services.com/teambadge/t173/gray/t173_d-alaves.png",
+                "badgeWhite": "https://assets-fantasy.llt-services.com/teambadge/t173/white/t173_d-alaves.png",
+                "name": "Deportivo Alav\u00e9s",
+                "id": "21",
+                "shortName": "ALA",
+                "slug": "d-alaves"
+            },
+            "name": "Samuel Omorodion Aghehowa",
+            "nickname": "Samu",
+            "slug": "samu-6",
+            "positionId": 4,
+            "position": "Delantero",
+            "marketValue": 1940831,
+            "playerStatus": "ok",
+            "points": 82,
+            "averagePoints": 4.555555555555555
+        },
+        "playerTeam": {
+            "buyoutClause": 4000001,
+            "playerTeamId": "106402625",
+            "buyoutClauseLockedEndTime": "2023-12-31T19:47:18+01:00"
+        },
+        "id": "75985045",
+        "salePrice": 2800000,
+        "expirationDate": "2024-02-02T10:17:32+01:00",
+        "status": "on_sale",
+        "leagueType": "private",
+        "leagueId": 3007733,
+        "numberOfOffers": 1,
+        "directOffer": false,
+        "sellerTeam": {
+            "teamMoney": null,
+            "id": "14343859",
+            "manager": {
+                "id": "5472599",
+                "managerName": "rogeneta",
+                "avatar": "https://ll1prglcdn.azureedge.net/global-avatar/3526df80-0814-4a11-a0f4-1ab8f4352c07.png"
+            },
+            "teamValue": 218270911,
+            "teamPoints": 859
+        }
+    },
+    {
+        "discr": "marketPlayerTeam",
+        "playerMaster": {
+            "images": {
+                "big": {
+                    "2048x2225": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "1024x1113": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "512x556": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "256x278": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "128x139": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "64x70": "https://assets-fantasy.llt-services.com/players/no-player.png"
+                },
+                "beat": {
+                    "2048x2048": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "1024x1024": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "512x512": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "256x256": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "128x128": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "64x64": "https://assets-fantasy.llt-services.com/players/no-player-sq.png"
+                },
+                "transparent": {
+                    "2048x2048": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "1024x1024": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "512x512": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "256x256": "https://assets-fantasy.llt-services.com/players/t191/p1260/256x256/p1260_t191_1_001_000.png",
+                    "128x128": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "64x64": "https://assets-fantasy.llt-services.com/players/no-player-sq.png"
+                }
+            },
+            "id": "1260",
+            "team": {
+                "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t191/color/t191_valencia-cf.png",
+                "badgeGray": "https://assets-fantasy.llt-services.com/teambadge/t191/gray/t191_valencia-cf.png",
+                "badgeWhite": "https://assets-fantasy.llt-services.com/teambadge/t191/white/t191_valencia-cf.png",
+                "name": "Valencia CF",
+                "id": "18",
+                "shortName": "VAL",
+                "slug": "valencia-cf"
+            },
+            "name": "Diego L\u00f3pez",
+            "lastSeasonPoints": 49,
+            "nickname": "Diego L\u00f3pez",
+            "slug": "diego-lopez",
+            "positionId": 4,
+            "position": "Delantero",
+            "marketValue": 14468770,
+            "playerStatus": "ok",
+            "points": 115,
+            "averagePoints": 5.2272727272727275
+        },
+        "playerTeam": {
+            "buyoutClause": 14468770,
+            "playerTeamId": "121339310",
+            "buyoutClauseLockedEndTime": "2024-02-07T19:47:22+01:00"
+        },
+        "id": "76822185",
+        "salePrice": 13671483,
+        "expirationDate": "2024-02-01T08:48:35+01:00",
+        "status": "on_sale",
+        "leagueType": "private",
+        "leagueId": 3007733,
+        "numberOfOffers": 1,
+        "directOffer": false,
+        "sellerTeam": {
+            "teamMoney": null,
+            "id": "14343859",
+            "manager": {
+                "id": "5472599",
+                "managerName": "rogeneta",
+                "avatar": "https://ll1prglcdn.azureedge.net/global-avatar/3526df80-0814-4a11-a0f4-1ab8f4352c07.png"
+            },
+            "teamValue": 218270911,
+            "teamPoints": 859
+        }
+    },
+    {
+        "discr": "marketPlayerTeam",
+        "playerMaster": {
+            "images": {
+                "big": {
+                    "2048x2225": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "1024x1113": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "512x556": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "256x278": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "128x139": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "64x70": "https://assets-fantasy.llt-services.com/players/no-player.png"
+                },
+                "beat": {
+                    "2048x2048": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "1024x1024": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "512x512": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "256x256": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "128x128": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "64x64": "https://assets-fantasy.llt-services.com/players/no-player-sq.png"
+                },
+                "transparent": {
+                    "2048x2048": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "1024x1024": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "512x512": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "256x256": "https://assets-fantasy.llt-services.com/players/t191/p1191/256x256/p1191_t191_1_001_000.png",
+                    "128x128": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "64x64": "https://assets-fantasy.llt-services.com/players/no-player-sq.png"
+                }
+            },
+            "id": "1191",
+            "team": {
+                "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t191/color/t191_valencia-cf.png",
+                "badgeGray": "https://assets-fantasy.llt-services.com/teambadge/t191/gray/t191_valencia-cf.png",
+                "badgeWhite": "https://assets-fantasy.llt-services.com/teambadge/t191/white/t191_valencia-cf.png",
+                "name": "Valencia CF",
+                "id": "18",
+                "shortName": "VAL",
+                "slug": "valencia-cf"
+            },
+            "name": "Hugo Duro Perales",
+            "lastSeasonPoints": 72,
+            "nickname": "Hugo Duro",
+            "slug": "hugo-duro",
+            "positionId": 4,
+            "position": "Delantero",
+            "marketValue": 33007973,
+            "playerStatus": "ok",
+            "points": 123,
+            "averagePoints": 5.590909090909091
+        },
+        "playerTeam": {
+            "buyoutClause": 33007973,
+            "playerTeamId": "122169287",
+            "buyoutClauseLockedEndTime": "2024-02-09T19:54:58+01:00"
+        },
+        "id": "76995312",
+        "salePrice": 35000000,
+        "expirationDate": "2024-02-01T19:44:37+01:00",
+        "status": "on_sale",
+        "leagueType": "private",
+        "leagueId": 3007733,
+        "numberOfOffers": 1,
+        "directOffer": false,
+        "sellerTeam": {
+            "teamMoney": null,
+            "id": "14588345",
+            "manager": {
+                "id": "5546020",
+                "managerName": "Crazycat",
+                "avatar": "https://ll1prglcdn.azureedge.net/global-avatar/90da2526-88ed-49e5-92b1-46c4e9483d42.png"
+            },
+            "teamValue": 393275542,
+            "teamPoints": 970
+        }
+    },
+    {
+        "discr": "marketPlayerTeam",
+        "playerMaster": {
+            "images": {
+                "big": {
+                    "2048x2225": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "1024x1113": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "512x556": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "256x278": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "128x139": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "64x70": "https://assets-fantasy.llt-services.com/players/no-player.png"
+                },
+                "beat": {
+                    "2048x2048": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "1024x1024": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "512x512": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "256x256": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "128x128": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "64x64": "https://assets-fantasy.llt-services.com/players/no-player-sq.png"
+                },
+                "transparent": {
+                    "2048x2048": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "1024x1024": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "512x512": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "256x256": "https://assets-fantasy.llt-services.com/players/t181/p1434/256x256/p1434_t181_1_001_000.png",
+                    "128x128": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "64x64": "https://assets-fantasy.llt-services.com/players/no-player-sq.png"
+                }
+            },
+            "id": "1434",
+            "team": {
+                "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t181/color/t181_rcd-mallorca.png",
+                "badgeGray": "https://assets-fantasy.llt-services.com/teambadge/t181/gray/t181_rcd-mallorca.png",
+                "badgeWhite": "https://assets-fantasy.llt-services.com/teambadge/t181/white/t181_rcd-mallorca.png",
+                "name": "RCD Mallorca",
+                "id": "33",
+                "shortName": "MLL",
+                "slug": "rcd-mallorca"
+            },
+            "name": "Samuel Almeida Costa",
+            "lastSeasonPoints": 102,
+            "nickname": "Samu Costa",
+            "slug": "samu-3",
+            "positionId": 3,
+            "position": "Centrocampista",
+            "marketValue": 5435182,
+            "playerStatus": "doubtful",
+            "points": 103,
+            "averagePoints": 4.681818181818182
+        },
+        "playerTeam": {
+            "buyoutClause": 20237153,
+            "playerTeamId": "94813797",
+            "buyoutClauseLockedEndTime": "2023-12-04T19:47:13+01:00"
+        },
+        "id": "77000813",
+        "salePrice": 5689713,
+        "expirationDate": "2024-02-01T20:02:29+01:00",
+        "status": "on_sale",
+        "leagueType": "private",
+        "leagueId": 3007733,
+        "numberOfOffers": 1,
+        "directOffer": false,
+        "sellerTeam": {
+            "teamMoney": 1137111,
+            "id": "14444918",
+            "manager": {
+                "id": "5501868",
+                "managerName": "Isma1108",
+                "avatar": "https://ll1prglcdn.azureedge.net/global-avatar/d861aab3-900c-46a4-851f-652bdb3f473d.png"
+            },
+            "teamValue": 163826319,
+            "teamPoints": 817
+        }
+    },
+    {
+        "discr": "marketPlayerTeam",
+        "playerMaster": {
+            "images": {
+                "big": {
+                    "2048x2225": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "1024x1113": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "512x556": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "256x278": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "128x139": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                    "64x70": "https://assets-fantasy.llt-services.com/players/no-player.png"
+                },
+                "beat": {
+                    "2048x2048": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "1024x1024": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "512x512": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "256x256": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "128x128": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "64x64": "https://assets-fantasy.llt-services.com/players/no-player-sq.png"
+                },
+                "transparent": {
+                    "2048x2048": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "1024x1024": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "512x512": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "256x256": "https://assets-fantasy.llt-services.com/players/t174/p92/256x256/p92_t174_1_001_000.png",
+                    "128x128": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                    "64x64": "https://assets-fantasy.llt-services.com/players/no-player-sq.png"
+                }
+            },
+            "id": "92",
+            "team": {
+                "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t174/color/t174_athletic-club.png",
+                "badgeGray": "https://assets-fantasy.llt-services.com/teambadge/t174/gray/t174_athletic-club.png",
+                "badgeWhite": "https://assets-fantasy.llt-services.com/teambadge/t174/white/t174_athletic-club.png",
+                "name": "Athletic Club",
+                "id": "3",
+                "shortName": "ATH",
+                "slug": "athletic-club"
+            },
+            "name": "Mikel Vesga Arruti",
+            "lastSeasonPoints": 158,
+            "nickname": "Vesga",
+            "slug": "vesga",
+            "positionId": 3,
+            "position": "Centrocampista",
+            "marketValue": 10454970,
+            "playerStatus": "ok",
+            "points": 84,
+            "averagePoints": 4.9411764705882355
+        },
+        "playerTeam": {
+            "buyoutClause": 11500000,
+            "playerTeamId": "119654311",
+            "buyoutClauseLockedEndTime": "2024-02-03T19:47:06+01:00"
+        },
+        "id": "77425507",
+        "salePrice": 12000000,
+        "expirationDate": "2024-02-02T23:57:04+01:00",
+        "status": "on_sale",
+        "leagueType": "private",
+        "leagueId": 3007733,
+        "numberOfOffers": 0,
+        "directOffer": false,
+        "sellerTeam": {
+            "teamMoney": null,
+            "id": "14588345",
+            "manager": {
+                "id": "5546020",
+                "managerName": "Crazycat",
+                "avatar": "https://ll1prglcdn.azureedge.net/global-avatar/90da2526-88ed-49e5-92b1-46c4e9483d42.png"
+            },
+            "teamValue": 393275542,
+            "teamPoints": 970
+        }
+    }
+]

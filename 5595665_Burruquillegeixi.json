@@ -1,0 +1,265 @@
+{
+    "players": [
+        {
+            "buyoutClause": 227216166,
+            "manager": {
+                "id": "5595665",
+                "managerName": "Burruquillegeixi",
+                "avatar": ""
+            },
+            "playerTeamId": "105988715",
+            "buyoutClauseLockedEndTime": "2023-12-30T17:04:32+01:00",
+            "playerMaster": {
+                "id": "1159",
+                "name": "Jes\u00fas Vallejo",
+                "nickname": "Vallejo",
+                "slug": "jesus-vallejo",
+                "birthDate": null,
+                "birthplace": null,
+                "positionId": 2,
+                "height": null,
+                "image30x30": null,
+                "image96x96": null,
+                "image250x250": null,
+                "playerStatus": "ok",
+                "lastSeasonPoints": 2,
+                "images": {
+                    "big": {
+                        "2048x2225": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                        "1024x1113": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                        "512x556": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                        "256x278": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                        "128x139": "https://assets-fantasy.llt-services.com/players/no-player.png",
+                        "64x70": "https://assets-fantasy.llt-services.com/players/no-player.png"
+                    },
+                    "beat": {
+                        "2048x2048": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                        "1024x1024": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                        "512x512": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                        "256x256": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                        "128x128": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                        "64x64": "https://assets-fantasy.llt-services.com/players/no-player-sq.png"
+                    },
+                    "transparent": {
+                        "2048x2048": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                        "1024x1024": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                        "512x512": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                        "256x256": "https://assets-fantasy.llt-services.com/players/t5683/p1159/256x256/p1159_t5683_1_001_000.png",
+                        "128x128": "https://assets-fantasy.llt-services.com/players/no-player-sq.png",
+                        "64x64": "https://assets-fantasy.llt-services.com/players/no-player-sq.png"
+                    }
+                },
+                "team": {
+                    "id": "10",
+                    "name": "Granada CF",
+                    "slug": "granada-cf",
+                    "assets": "{\"color\": \"https://assets-fantasy.llt-services.com/teambadge/t5683/color/t5683_granada-cf.png\",\"gray\": \"https://assets-fantasy.llt-services.com/teambadge/t5683/gray/t5683_granada-cf.png\",\"white\": \"https://assets-fantasy.llt-services.com/teambadge/t5683/white/t5683_granada-cf.png\"}",
+                    "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t5683/color/t5683_granada-cf.png",
+                    "badgeGray": "https://assets-fantasy.llt-services.com/teambadge/t5683/gray/t5683_granada-cf.png",
+                    "badgeWhite": "https://assets-fantasy.llt-services.com/teambadge/t5683/white/t5683_granada-cf.png"
+                },
+                "lastStats": [
+                    {
+                        "stats": {
+                            "mins_played": [
+                                10,
+                                1
+                            ],
+                            "goals": [
+                                0,
+                                0
+                            ],
+                            "goal_assist": [
+                                0,
+                                0
+                            ],
+                            "offtarget_att_assist": [
+                                0,
+                                0
+                            ],
+                            "pen_area_entries": [
+                                0,
+                                0
+                            ],
+                            "penalty_won": [
+                                0,
+                                0
+                            ],
+                            "penalty_save": [
+                                0,
+                                0
+                            ],
+                            "saves": [
+                                0,
+                                0
+                            ],
+                            "effective_clearance": [
+                                0,
+                                0
+                            ],
+                            "penalty_failed": [
+                                0,
+                                0
+                            ],
+                            "own_goals": [
+                                0,
+                                0
+                            ],
+                            "goals_conceded": [
+                                0,
+                                0
+                            ],
+                            "yellow_card": [
+                                0,
+                                0
+                            ],
+                            "second_yellow_card": [
+                                0,
+                                0
+                            ],
+                            "red_card": [
+                                0,
+                                0
+                            ],
+                            "total_scoring_att": [
+                                0,
+                                0
+                            ],
+                            "won_contest": [
+                                0,
+                                0
+                            ],
+                            "ball_recovery": [
+                                1,
+                                0
+                            ],
+                            "poss_lost_all": [
+                                1,
+                                0
+                            ],
+                            "penalty_conceded": [
+                                0,
+                                0
+                            ],
+                            "marca_points": [
+                                -1,
+                                1
+                            ]
+                        },
+                        "weekNumber": 19,
+                        "totalPoints": 2,
+                        "isInIdealFormation": false
+                    },
+                    {
+                        "stats": {
+                            "mins_played": [
+                                0,
+                                0
+                            ],
+                            "goals": [
+                                0,
+                                0
+                            ],
+                            "goal_assist": [
+                                0,
+                                0
+                            ],
+                            "offtarget_att_assist": [
+                                0,
+                                0
+                            ],
+                            "pen_area_entries": [
+                                0,
+                                0
+                            ],
+                            "penalty_won": [
+                                0,
+                                0
+                            ],
+                            "penalty_save": [
+                                0,
+                                0
+                            ],
+                            "saves": [
+                                0,
+                                0
+                            ],
+                            "effective_clearance": [
+                                0,
+                                0
+                            ],
+                            "penalty_failed": [
+                                0,
+                                0
+                            ],
+                            "own_goals": [
+                                0,
+                                0
+                            ],
+                            "goals_conceded": [
+                                0,
+                                0
+                            ],
+                            "yellow_card": [
+                                0,
+                                0
+                            ],
+                            "second_yellow_card": [
+                                0,
+                                0
+                            ],
+                            "red_card": [
+                                0,
+                                0
+                            ],
+                            "total_scoring_att": [
+                                0,
+                                0
+                            ],
+                            "won_contest": [
+                                0,
+                                0
+                            ],
+                            "ball_recovery": [
+                                0,
+                                0
+                            ],
+                            "poss_lost_all": [
+                                0,
+                                0
+                            ],
+                            "penalty_conceded": [
+                                0,
+                                0
+                            ],
+                            "marca_points": [
+                                -1,
+                                0
+                            ]
+                        },
+                        "weekNumber": 20,
+                        "totalPoints": 0,
+                        "isInIdealFormation": false
+                    }
+                ],
+                "averagePoints": 1,
+                "points": 4,
+                "marketValue": 498328
+            }
+        }
+    ],
+    "loanedPlayers": [],
+    "teamMoney": null,
+    "playersNumber": 1,
+    "id": "15828180",
+    "manager": {
+        "id": "5595665",
+        "managerName": "Burruquillegeixi",
+        "avatar": ""
+    },
+    "startingWeek": "18",
+    "banned": false,
+    "teamValue": 498328,
+    "teamPoints": 0,
+    "position": 8
+}
